@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/fengfeng9898/FoldTVLauncher-Updates/releases/download/v1.1/FoldTVLauncher-v1.1.apk",
+  "sha256": "5c9c15c8c9f8290543e9649649fd35153de8ad1f9a7df40196ccef57b6d297ad",
+  "changelog": "1. 新增启动后自动检查更新。\n2. 新增 设置 → 系统与关于 → 检查更新。\n3. 新增更新确认/取消和更新内容展示。\n4. 新增真实下载进度、SHA-256校验和系统安装确认。\n5. 正式版继续保留小米浅蓝 NinePatch Dock。",
+  "required": false
+}
