@@ -1,8 +1,8 @@
 {
-    "versionCode":  5,
-    "versionName":  "1.4",
-    "apkUrl":  "https://github.com/fengfeng9898/FoldTVLauncher-Updates/releases/download/v1.4/FoldTVLauncher-v1.4.apk",
-    "sha256":  "c8b37a4c1812c70b0cecad748dc3f80fc616b33f96da08380d1ef8784d1872a2",
-    "changelog":  "1. 清除旧桌面小组件内容并升级布局数据。\n2. 重建系统小组件添加、移动、缩放、删除和保存。\n3. 小组件尺寸变化同步给 Android，失效时提示删除重加。\n4. 移除不好看的 UI 测试包，保留正常正式首页。\n5. 优化 Dock、视频推荐和添加内容弹窗。",
+    "versionCode":  6,
+    "versionName":  "1.5",
+    "apkUrl":  "https://github.com/fengfeng9898/FoldTVLauncher-Updates/releases/download/v1.5/FoldTVLauncher-v1.5.apk",
+    "sha256":  "f4e0b68c5bc2216fc3ad8b14bdab380ee95d2a761a386aea30e549e346af65f8",
+    "changelog":  "1. 重建 6 列 Workspace，自由添加、移动、删除并保存真实应用。\n2. Dock 固定且不参与桌面碰撞，遥控器确认保存、返回取消。\n3. 桌面为空时完全透明，不显示空状态卡片。\n4. Dock 改用当前壁纸取样玻璃，统一应用卡片和焦点高光。\n5. 清除旧文件夹、视频卡片和系统小组件残留内容。",
     "required":  false
 }
